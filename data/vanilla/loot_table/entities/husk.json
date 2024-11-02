@@ -51,11 +51,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:sand"
+          "name": "minecraft:stick"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:rotten_flesh"
+          "name": "minecraft:dead_bush"
         },
         {
           "type": "minecraft:item",
@@ -102,5 +102,6 @@
       ],
       "rolls": 1.0
     }
-  ]
+  ],
+  "random_sequence": "minecraft:entities/husk"
 }
