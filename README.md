@@ -2,11 +2,10 @@
 Rewrites the Minecraft Husk loot table to be more desert-like.
 
 # loot table changes
-- Reduces rotten flesh drop chance as they are "dried out" and less can be collected.
-- Swaps gold ingot in for iron ingot on player kill, they may have picked it up in a ruin.
-- Swaps stick for carrot on player kill, no fresh carrots in the desert.
-- Swaps dead bush for potate on player kill, no fresh potatoes in the desert.
-- Adds sand drop at old rotten flesh drop rate.
+- Changes default drop from rotten flesh to sand.
+- Changes iron ingot roll to sand (looting).
+- Changes carrot to rotten flesh (looting) vastly reducing the amount of flesh (they are dried out).
+- Changes the potatoe to raw rabbit (looting), will be cooked if Husk is on fire.
 
 See the JSON file for the full details.
 
